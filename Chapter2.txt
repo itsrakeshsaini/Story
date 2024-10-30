@@ -1,0 +1,11 @@
+Welcome to Chapter 2
+in previous chapter we add file to staging area to track the commit or changes.
+used command - git add Chapter1.txt
+
+then see the status which shows new file which is need to be commit 
+for commit used-- 
+git commit -m"message"
+
+and for checking what we commit use command-
+git log
+
